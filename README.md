@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Projeto desenvolvido para registrar dinamicamente os <strong>horários de chegada e atrasos</strong> de funcionários (suposição), com interface intuitiva e feedback visual.<br>
-  Aplicação dos conhecimentos iniciais em <strong>JavaScript</strong>, <strong>HTML</strong> e <strong>CSS</strong>.
+  Aplicação dos conhecimentos iniciais em <strong>HTML</strong>, <strong>CSS</strong> e <strong>Bootstrap</strong>.
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 - ✅ **HTML5** - Estruturação da página  
 - ✅ **CSS3** - Estilização e responsividade  
-- ✅ **Boostrap** - Estilização 
+- ✅ **Bootsrap** - Estilização 
 
 ---
 
